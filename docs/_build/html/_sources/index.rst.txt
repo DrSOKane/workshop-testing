@@ -6,11 +6,13 @@
 Welcome to Sphinx tutorial's documentation!
 ===========================================
 
+Hello, this is the workshop documentation!
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-
+   Tutorial
 
 Indices and tables
 ==================
